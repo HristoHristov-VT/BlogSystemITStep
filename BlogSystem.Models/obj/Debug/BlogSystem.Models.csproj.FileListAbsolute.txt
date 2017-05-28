@@ -1,0 +1,14 @@
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\BlogSystem.Models.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\BlogSystem.Models.pdb
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.pdb
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\obj\Debug\BlogSystem.Models.csprojResolveAssemblyReference.cache
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\BlogSystem.Models.dll.config
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\EntityFramework.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\EntityFramework.xml
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
