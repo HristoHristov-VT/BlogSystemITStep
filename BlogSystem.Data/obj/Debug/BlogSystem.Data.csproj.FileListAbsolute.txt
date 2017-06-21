@@ -14,3 +14,6 @@ D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogS
 D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.InitialCreate.resources
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.csproj.GenerateResource.Cache
+D:\SpectraVT\SPECTRA\DEVELOPER\ASP.NET MVC\Test 2017\BlogSystem\BlogSystem\BlogSystem.Data\obj\Debug\BlogSystem.Data.Migrations.Added_Posts.resources

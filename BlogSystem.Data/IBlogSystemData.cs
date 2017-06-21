@@ -1,4 +1,4 @@
-﻿namespace BlogSystem.Data
+﻿ namespace BlogSystem.Data
 {
     using BlogSystem.Data.Repositories;
     using BlogSystem.Models;
@@ -10,7 +10,12 @@
             get;
         }
 
-      
+        IRepository<Post> Posts
+        {
+            get;
+        }
+
+
 
     }
 }

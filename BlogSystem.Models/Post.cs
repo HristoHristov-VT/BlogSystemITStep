@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BlogSystem.Models
 {
-    public class Post
+    public class Post : BaseModel
     {
-        public int id { get; set; }
+     
 
         public string Title { get; set; }
 
@@ -16,7 +16,7 @@ namespace BlogSystem.Models
 
         public virtual ApplicationUser Autor { get; set; }
 
-        public int AuthorId { get; set; }
+        public string AuthorId { get; set; }
 
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace BlogSystem.Data
+﻿ namespace BlogSystem.Data
 {
     using System;
     using System.Collections.Generic;
@@ -28,7 +28,15 @@
             {
                 return this.GetRepository<ApplicationUser>();
             }
-        }       
+        }
+
+        public IRepository<Post> Posts
+        {
+            get
+            {
+                return this.GetRepository<Post>();
+            }
+        }
 
         private IRepository<T> GetRepository<T>() where T : class
         {
